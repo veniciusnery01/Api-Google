@@ -1,5 +1,5 @@
 const googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyDxq1iziHs5l9CHCSAV7bfxkSxcEJPx4C8', // Coloca sua Chave aqui que pra funcionar
+  key: ' ', // Coloca sua Chave aqui que pra funcionar
   Promise: Promise
 });
 
