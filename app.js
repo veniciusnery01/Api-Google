@@ -31,6 +31,7 @@ async function calculaTudo (address){
 
  const dist = await googleMapsClient.distanceMatrix({
     origins: [localizacao],
+   //unidades Labchecap em Lat-Long
     destinations:['-12.998959, -38.460811',
     '-12.989714, -38.460826',
     '-12.938284, -38.402349',
